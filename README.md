@@ -15,4 +15,4 @@ How to Play:
 5. Have fun playing the number guessing game and see how quickly you can guess the correct number!
 
 Author:
-Shruti Mishra
+Shruti Mishra.
